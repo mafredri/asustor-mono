@@ -6,6 +6,12 @@ An up-to-date build of Mono for ASUSTOR ADM. Installs under mono-latest to not c
 
 Icon borrowed from the official ASUSTOR package.
 
+## Usage
+
+```
+mono-latest /path/to/program.exe
+```
+
 ## Links
 
 * ASUSTOR [App Central](http://www.asustor.com/apps?lan=en)
