@@ -1,4 +1,4 @@
-# mono-apkg
+# asustor-mono-latest
 
 ![Mono](https://raw.githubusercontent.com/mafredri/mono-apkg/master/source/CONTROL/icon.png)
 

@@ -1,0 +1,33 @@
+---
+ssh: ascross
+
+package: mono-latest
+name: Mono (Latest)
+version: 4.6.0.150
+architecture:
+firmware: 2.6.0
+
+config:
+  general:
+    developer: "Mono Project"
+    website: "http://www.mono-project.com/"
+    maintainer: "mafredri"
+    email: "mafredri+adm@gmail.com"
+    depends: []
+    conflicts: []
+    package: "PACKAGE"
+    name: "NAME"
+    version: "VERSION"
+    architecture: "ARCHITECTURE"
+    firmware: "FIRMWARE"
+  register:
+    symbolic-link:
+      /bin:
+        - mono-latest
+
+case_sensitive: false
+runpath:
+root: /usr/local/AppCentral/mono-latest
+files:
+  - /usr/local/AppCentral/mono-latest
+exclude:
