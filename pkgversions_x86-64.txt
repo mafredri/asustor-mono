@@ -1,2 +1,0 @@
-# This file is auto-generated.
-dev-lang/mono-3.10.0
